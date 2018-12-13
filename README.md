@@ -4,8 +4,13 @@ I attended a compition called "Writing IT articles in 30 days" help by a Taiwane
 
 ## Start and Finish Date
 
-2018-10-04
-2018-11-02
+2018-10-04 ~ 11-02 (30days)
+
+## After the competition
+
+I have moved to Osaka, Japan and decided to update the Ruby codes for Ironman2018 project and push to Github in December 2018.
+
+It will be my Christmas Gift before a nice trip (Kobe/ Tokyo/ Hokkaido) in holiday season. ;)
 
 ## The original articles
 
